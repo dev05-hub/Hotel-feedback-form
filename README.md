@@ -110,7 +110,6 @@ code:
 
 
 Images are:
-<img width="1920" height="1020" alt="Screenshot 2025-09-06 221204" src="https://github.com/user-attachments/assets/79c6dcba-9b48-4670-983f-d6050cea8cd7" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-06 221043" src="https://github.com/user-attachments/assets/d6d18bd6-10ae-4f3f-9d40-d94e7f8200d1" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-06 220857" src="https://github.com/user-attachments/assets/0a9a9ad5-b924-42a9-a970-3254e62fc7e5" />
 <img width="1920" height="1020" alt="Screenshot 2025-09-06 221132" src="https://github.com/user-attachments/assets/a5007bf8-f431-4e6b-9737-0b07db47f288" />
